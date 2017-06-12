@@ -23,7 +23,7 @@ Comunidade
 
 Esse é o nosso espaço para conversarmos, nos conhecermos e tirarmos dúvidas. Suporte e perguntas também são aqui. Isso é para fortalecer e ter um único espaço de interação onde todos podem se encontrar.
 
-- hthttps://www.udemy.com/curso-kotlin-android/learn/v4/questions
+- https://www.udemy.com/curso-kotlin-android/learn/v4/questions
 
 Sugestões de correções do projeto são muito bem vindas, devem ser apresentadas efetuando um fork do projeto e efetuando um pull request através do Github.
 
