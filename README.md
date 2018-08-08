@@ -3,8 +3,6 @@ Exercícios das Aulas
 
 Este repositrio contém todos os exercicios e códigos fonte demonstrados durante as aulas de programação Kotlin.
 
-***Esse projeto faz parte do curso Kotlin Essencial para Android ([https://www.udemy.com/curso-kotlin-android/](https://www.udemy.com/curso-kotlin-android/?couponCode=ANDROIDPRO))***
-
 
 Pré-requisitos
 --------------
